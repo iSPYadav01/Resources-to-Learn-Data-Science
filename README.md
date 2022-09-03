@@ -151,7 +151,8 @@ Medium is an open platform where readers find dynamic thinking, and where expert
  ---
  
 <h3 align="left"> Job Related Articles </h3>
-  1. [Data Science Report](http://starbridgepartners.com/data-science-report/) : Read about how a data scientist was hired at Airbnb, how banking and financial services fields scale their automation by using machine learning, all the way to recommendations on first data subjects to learn about in Data Science Report. Since the publishers, Starbridge Partners – a specialty executive search firm, are skilled in helping professionals land new careers, you can also find a solid data science job listings resource for once you finish studying.
+
+1. [Data Science Report](http://starbridgepartners.com/data-science-report/) : Read about how a data scientist was hired at Airbnb, how banking and financial services fields scale their automation by using machine learning, all the way to recommendations on first data subjects to learn about in Data Science Report. Since the publishers, Starbridge Partners – a specialty executive search firm, are skilled in helping professionals land new careers, you can also find a solid data science job listings resource for once you finish studying.
 <img src="https://user-images.githubusercontent.com/87929992/188288643-32832526-593f-4ea4-ba98-0fd678d59656.png" height="100" width="400" align="center">
 .
 .

@@ -68,8 +68,12 @@ Medium is an open platform where readers find dynamic thinking, and where expert
   8. [Explained AI](https://explained.ai/)
   9. [Sebastianraschka](https://sebastianraschka.com/blog/index.html)
   10.
+  
+---
+---
 
 <h3 align="left">Other Tops Beginners New to Data Science </h3>
+
 1. [Thinkful’s Blog - Data Science](https://www.thinkful.com/blog/tag/data-science/) : hinkful’s blog offers deep insights into what it’s like to become a data scientist. Learn from Q&A’s with Thinkful students, graduates, mentors, and experts in the field. If you’re new to the industry, our WTF is Data Science article gives everything you need to get an introduction to what skills you need, and what types of jobs you can land. Readers can also see how data science can predict current events like NFL touchdowns, job market insights, oscar winners, and more. And of course, you’ll get real stories about our Data Science Flex and Data Science Immersion programs.
 <img src="https://user-images.githubusercontent.com/87929992/188288943-a1bc8a4e-2edd-45a8-ba4b-b4625dc9a426.png" height="100" width="400" align="center">    
 
@@ -105,7 +109,9 @@ Medium is an open platform where readers find dynamic thinking, and where expert
 9. [Revolutions](https://blog.revolutionanalytics.com/) : If you’re an R advocate, the Revolutions blog is for you. The site is updated almost every day and is a can’t miss if you’re passionate about Python, machine learning and visualizations. It’s the place to go for weekly roundups on the latest software updates and insight into what’s going on in the industry, plus it has a frequently updated list of resources to help you as you learn. There’s also an extremely robust user directory, so you can find the data science group, and topic, you’re most passionate about––or you can start one of your own.
 <img src="https://user-images.githubusercontent.com/87929992/188288693-f662b261-8f75-466d-99b0-cab6f3006abe.png" height="100" width="400" align="center"> 
     
-    
+ ---
+ ---
+ 
 <h3 align="left"> Job Related Articles </h3>
   1. [Data Science Report](http://starbridgepartners.com/data-science-report/) : Read about how a data scientist was hired at Airbnb, how banking and financial services fields scale their automation by using machine learning, all the way to recommendations on first data subjects to learn about in Data Science Report. Since the publishers, Starbridge Partners – a specialty executive search firm, are skilled in helping professionals land new careers, you can also find a solid data science job listings resource for once you finish studying.
 <img src="https://user-images.githubusercontent.com/87929992/188288643-32832526-593f-4ea4-ba98-0fd678d59656.png" height="100" width="400" align="center">

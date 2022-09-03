@@ -4,36 +4,57 @@
 ![Best-Resources-To-Learn-Data-Science-In-Hindi](https://user-images.githubusercontent.com/87929992/188286742-f6a90923-d3b6-4f7c-8f63-8e3c64de451e.jpg)
 
 ---
+Hope this will be helpful
+Feel Free to Connect & Follow on
+- [LinkedIn](https://www.linkedin.com/in/surendra-pratap-yadav-13456895), 
+- [GitHub](https://github.com/iSPYadav01)
 ---
-<h3 align="left">⚡ Top Website's </h3>
-  
-1. [Medium](https://medium.com/tag/data-science0) : 
-Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
-- A living network of curious minds : Anyone can write on Medium. Thought-leaders, journalists, experts, and individuals with unique perspectives share their thinking here. You’ll find pieces by independent writers from around the globe, stories we feature and leading authors, and smart takes on our own suite of blogs and publications.
-<img src="https://tse3.mm.bing.net/th?id=OIP.NQeR75b1kMHAvTliS50wsQHaB1&pid=Api&P=0" height="100" width="400" align="center">
 ---
 
-2. [Towards Data Science](https://towardsdatascience.com/) : Towards Data Science Inc. is proud to run a publication where independent authors who follow our rules and guidelines can publish their work, share their knowledge and expertise, and engage a wide audience on Medium.
-<img src="https://user-images.githubusercontent.com/87929992/188287006-cd242646-e90c-44d0-a500-a3af6e051b90.png" height="100" width="400" align="center">
----
-
-3. [Kaggle](https://www.kaggle.com/) : Wondering where data sets are that are used by data scientists? Kaggle is a site that allows you to search through thousands of public data sets to be able to conduct data science projects. You can also perform data science tasks with their large research database, and compete with other professionals. Not only do you get a chance to compete, but you also get to discuss information and get feedback from peers. If you're new to the industry, it’s a great place to start familiarizing yourself with raw data.
+<h3 align="left"> ⚡ Top 10  Website's </h3>
+  1. [Kaggle](https://www.kaggle.com/) : Wondering where data sets are that are used by data scientists? Kaggle is a site that allows you to search through thousands of public data sets to be able to conduct data science projects. You can also perform data science tasks with their large research database, and compete with other professionals. Not only do you get a chance to compete, but you also get to discuss information and get feedback from peers. If you're new to the industry, it’s a great place to start familiarizing yourself with raw data.
 <img src="https://www.kaggle.com/static/images/site-logo.svg" height="100" width="400" align="center">
 ---
+
+  2. [Analytics Vidhya](https://www.analyticsvidhya.com/blog-archive/) : Analytics Vidhya provides a community based knowledge portal for Analytics and Data Science professionals. The aim of the platform is to become a complete portal serving all knowledge and career needs of Data Science Professionals.
+<img src="https://conceptosclaros.com/wp-content/uploads/2016/12/analytics-vidhya.jpg" height="100" width="400" align="center">
+---
   
-4. [Data Driven Investor](https://medium.datadriveninvestor.com/) : DataDrivenInvestor (DDI) started as a small team with the mission to develop a guide from confusion to clarity in the age of information, knowledge, and complexity. It has since become one of the fastest growing publications on Medium. DDI leverages on the wisdom of the crowd to minimize the path from information to investible insights. People who benefit from us, and contribute to our growth, come from all walks of life and all corners of the planet. Our current focus is to empower our community with data, knowledge, and expertise, through developing applications for our members and helping them connect to resources and opportunities
-<img src="https://datadriveninvestor.s3.amazonaws.com/uploads/2022/06/DataDrivenInvestor-1-e1656318914168.png" height="100" width="400" align="center">
---- 
-  
-5. [Becoming Human](https://becominghuman.ai/) : Exploring Artificial Intelligence & What it Means to be Human, this is great blogging to understand AI ML with practical examples.
-<img src="https://cdn-images-1.medium.com/max/381/1*1fYpRTTpKQNa0zuEPe3itg@2x.png" height="100" width="400" align="center">
+  3. [Machine Learning Mastery](https://machinelearningmastery.com/blog/) : Its blogging and research website dedicatedly for Machine Learning. here [About](https://machinelearningmastery.com/about/)
+<img src="https://machinelearningmastery.com/wp-content/uploads/2019/09/Header_smaller_text_better-1.png" height="100" width="400" align="center">
 ---
 
-6. [Susan Li](https://actsusanli.medium.com/) : Read writing from Susan Li on Medium. Every day, Susan Li and thousands of other voices read, write, and share important stories on Medium.
-<img src="https://user-images.githubusercontent.com/87929992/188288050-ca7b843e-06fd-4e78-b614-eae0c4a5aa33.png" height="100" width="400" align="center">
+  4. [Colah's Blog](https://colah.github.io/) : You can learn about Deep Learminig, Machine Learning and Artificial Intelligence and emerging technologies best for Machine Learning.
+<img src="https://user-images.githubusercontent.com/87929992/188289455-fb9c188a-83e5-4cd9-98c8-6fee116bc2a5.png" height="100" width="400" align="center">
+---
 
+  5. [Andrej Karpathy](https://karpathy.medium.com/) : Its blogging and research website dedicatedly for Upcomming Tech and Current Tech.
+<img src="https://user-images.githubusercontent.com/87929992/188289560-0cdc81d6-ccd1-4286-80e2-6245e47d2a29.png" height="100" width="400" align="center">
+---
+
+  6. [I Am Trask](http://iamtrask.github.io/) : Get industry perspectives Machine Learning and also how data-driven technology impacts current events and our society.
+<img src="https://user-images.githubusercontent.com/87929992/188289590-2b83e819-4f80-4211-b7a7-6ad19de2f225.png" height="100" width="400" align="center">
+---
+
+  7. [Distill](https://distill.pub/) : Machine Learning Research Should Be Clear, Dynamic and Vivid. Distill Is Here to Help.
+<img src="https://user-images.githubusercontent.com/87929992/188289643-4446951c-1f9a-4314-a3ca-fe24c8b19af6.png" height="100" width="400" align="center">
+---
+
+  8. [Sebastian Ruder](https://ruder.io/) : I'm a research scientist at Google. I blog about natural language processing and machine learning.
+<img src="https://user-images.githubusercontent.com/87929992/188289655-18afa682-9cdb-41f5-8ef7-2affdce19918.png" height="100" width="400" align="center">
+---
+
+  9. [Explained AI](https://explained.ai/) : Deep explanations of machine learning and related topics.
+<img src="https://user-images.githubusercontent.com/87929992/188289670-614f1c4e-e32e-4194-ac3f-fc3bc7670798.png" height="100" width="400" align="center">
+---
+
+  10. [Sebastianraschka](https://sebastianraschka.com/blog/index.html) : you can learn about big data, blockchain, artificial intelligence and emerging technologies.
+<img src="https://user-images.githubusercontent.com/87929992/188289691-22dce022-1168-4e14-97b9-cc074e7f29c8.png" height="100" width="400" align="center">
+
+  
 ---
 ---
+
 <h3 align="left">🤝Data Scientists in the Workforce </h3>
 1. [insideBIGDATA](https://insidebigdata.com/) : If it’s happening in the world of machine learning, you can bet it’ll be covered here.There’s everything from podcasts to white papers, and you can get the scoop on advances in the industry, new AI forecasting methods, and a host of industry perspectives from data science experts. This is also the spot for all the major reviews from Harvard, KDD and insideBIGDATA themselves, thanks to their frequent long-form guides on everything from healthcare to using big data on an industrial scale.
 <img src="https://insidebigdata.com/wp-content/uploads/2022/04/iBD-logo-horizontal-tagline1.png" height="100" width="400" align="center">
@@ -57,20 +78,35 @@ Medium is an open platform where readers find dynamic thinking, and where expert
 
 6.  [DataScience+](https://datascienceplus.com/) : Get easy to use online data exploration tools plus a blog centered on data management, analysis, and reporting. The great thing about DataScience+ is that professionals can read about how data science is being applied in real world scenarios.
 <img src="https://datascienceplus.com/wp-content/themes/m01/images/logo-dsnew.png" height="100" width="400" align="center">
+
+
+---
+---
+
+<h3 align="left">⚡ Other Top 5 Website's </h3>
+
+1. [Medium](https://medium.com/tag/data-science0) : 
+Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
+- A living network of curious minds : Anyone can write on Medium. Thought-leaders, journalists, experts, and individuals with unique perspectives share their thinking here. You’ll find pieces by independent writers from around the globe, stories we feature and leading authors, and smart takes on our own suite of blogs and publications.
+<img src="https://tse3.mm.bing.net/th?id=OIP.NQeR75b1kMHAvTliS50wsQHaB1&pid=Api&P=0" height="100" width="400" align="center">
+---
+
+2. [Towards Data Science](https://towardsdatascience.com/) : Towards Data Science Inc. is proud to run a publication where independent authors who follow our rules and guidelines can publish their work, share their knowledge and expertise, and engage a wide audience on Medium.
+<img src="https://user-images.githubusercontent.com/87929992/188287006-cd242646-e90c-44d0-a500-a3af6e051b90.png" height="100" width="400" align="center">
 ---
   
-<h3 align="left"> Top 10  Website's </h3>
-  1. [Analytics Vidhya](https://www.analyticsvidhya.com/blog-archive/)
-  2. [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
-  3. [Colah's Blog](https://colah.github.io/)
-  4. [Andrej Karpathy](https://karpathy.medium.com/)
-  5. [I Am Trask](http://iamtrask.github.io/)
-  6. [Distill](https://distill.pub/)
-  7. [Sebastian Ruder](https://ruder.io/)
-  8. [Explained AI](https://explained.ai/)
-  9. [Sebastianraschka](https://sebastianraschka.com/blog/index.html)
-  10.
+3. [Data Driven Investor](https://medium.datadriveninvestor.com/) : DataDrivenInvestor (DDI) started as a small team with the mission to develop a guide from confusion to clarity in the age of information, knowledge, and complexity. It has since become one of the fastest growing publications on Medium. DDI leverages on the wisdom of the crowd to minimize the path from information to investible insights. People who benefit from us, and contribute to our growth, come from all walks of life and all corners of the planet. Our current focus is to empower our community with data, knowledge, and expertise, through developing applications for our members and helping them connect to resources and opportunities
+<img src="https://datadriveninvestor.s3.amazonaws.com/uploads/2022/06/DataDrivenInvestor-1-e1656318914168.png" height="100" width="400" align="center">
+--- 
   
+4. [Becoming Human](https://becominghuman.ai/) : Exploring Artificial Intelligence & What it Means to be Human, this is great blogging to understand AI ML with practical examples.
+<img src="https://cdn-images-1.medium.com/max/381/1*1fYpRTTpKQNa0zuEPe3itg@2x.png" height="100" width="400" align="center">
+---
+
+5. [Susan Li](https://actsusanli.medium.com/) : Read writing from Susan Li on Medium. Every day, Susan Li and thousands of other voices read, write, and share important stories on Medium.
+<img src="https://user-images.githubusercontent.com/87929992/188288050-ca7b843e-06fd-4e78-b614-eae0c4a5aa33.png" height="100" width="400" align="center">
+
+ 
 ---
 ---
 

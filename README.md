@@ -1,13 +1,24 @@
 # Resources-to-Learn-Data-Science
 All About Best Resources to Learn Data Science
+![Best-Resources-To-Learn-Data-Science-In-Hindi](https://user-images.githubusercontent.com/87929992/188286742-f6a90923-d3b6-4f7c-8f63-8e3c64de451e.jpg)
 
 <h3 align="left">Best Resources to Learn Data Science:</h3>
 <p align="left">
 - ⚡ Top Website's
   
-1. [Medium](https://medium.com/tag/data-science0)
-2. [Towards Data Science](https://towardsdatascience.com/)
-3. [Kaggle](https://www.kaggle.com/)
+1. [Medium](https://medium.com/tag/data-science0) : Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
+- A living network of curious minds : Anyone can write on Medium. Thought-leaders, journalists, experts, and individuals with unique perspectives share their thinking here. You’ll find pieces by independent writers from around the globe, stories we feature and leading authors, and smart takes on our own suite of blogs and publications.
+![image](https://tse3.mm.bing.net/th?id=OIP.NQeR75b1kMHAvTliS50wsQHaB1&pid=Api&P=0)
+
+
+2. [Towards Data Science](https://towardsdatascience.com/) : Towards Data Science Inc. is proud to run a publication where independent authors who follow our rules and guidelines can publish their work, share their knowledge and expertise, and engage a wide audience on Medium
+![image](https://user-images.githubusercontent.com/87929992/188287006-cd242646-e90c-44d0-a500-a3af6e051b90.png)
+
+
+3. [Kaggle](https://www.kaggle.com/) : Wondering where data sets are that are used by data scientists? Kaggle is a site that allows you to search through thousands of public data sets to be able to conduct data science projects. You can also perform data science tasks with their large research database, and compete with other professionals. Not only do you get a chance to compete, but you also get to discuss information and get feedback from peers. If you're new to the industry, it’s a great place to start familiarizing yourself with raw data.
+![image](https://www.kaggle.com/static/images/site-logo.svg)
+
+
 4. [Data Driven Investor](https://medium.datadriveninvestor.com/)
 5. [Becoming Human](https://becominghuman.ai/)
 6. [Susan Li](https://actsusanli.medium.com/)

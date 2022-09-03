@@ -1,12 +1,14 @@
 # Resources-to-Learn-Data-Science
-All About Best Resources to Learn Data Science
+<h4 align="left">All About Best Resources to Learn Data Science </h4>
+
 ![Best-Resources-To-Learn-Data-Science-In-Hindi](https://user-images.githubusercontent.com/87929992/188286742-f6a90923-d3b6-4f7c-8f63-8e3c64de451e.jpg)
 
-<h3 align="left">Best Resources to Learn Data Science:</h3>
-<p align="left">
-- ⚡ Top Website's
+---
+---
+<h3 align="left">⚡ Top Website's </h3>
   
-1. [Medium](https://medium.com/tag/data-science0) : Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
+1. [Medium](https://medium.com/tag/data-science0) : 
+Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
 - A living network of curious minds : Anyone can write on Medium. Thought-leaders, journalists, experts, and individuals with unique perspectives share their thinking here. You’ll find pieces by independent writers from around the globe, stories we feature and leading authors, and smart takes on our own suite of blogs and publications.
 <img src="https://tse3.mm.bing.net/th?id=OIP.NQeR75b1kMHAvTliS50wsQHaB1&pid=Api&P=0" height="100" width="400" align="center">
 
@@ -30,8 +32,9 @@ All About Best Resources to Learn Data Science
 6. [Susan Li](https://actsusanli.medium.com/) : Read writing from Susan Li on Medium. Every day, Susan Li and thousands of other voices read, write, and share important stories on Medium.
 <img src="https://user-images.githubusercontent.com/87929992/188288050-ca7b843e-06fd-4e78-b614-eae0c4a5aa33.png" height="100" width="400" align="center">
 
-  
-- 🤝Data Scientists in the Workforce
+---
+---
+<h3 align="left">🤝Data Scientists in the Workforce </h3>
 1. [insideBIGDATA](https://insidebigdata.com/) : If it’s happening in the world of machine learning, you can bet it’ll be covered here.There’s everything from podcasts to white papers, and you can get the scoop on advances in the industry, new AI forecasting methods, and a host of industry perspectives from data science experts. This is also the spot for all the major reviews from Harvard, KDD and insideBIGDATA themselves, thanks to their frequent long-form guides on everything from healthcare to using big data on an industrial scale.
 <img src="https://insidebigdata.com/wp-content/uploads/2022/04/iBD-logo-horizontal-tagline1.png" height="100" width="400" align="center">
 
